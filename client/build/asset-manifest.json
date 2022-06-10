@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LockAppJS/static/css/main.d1ed0332.css",
+    "main.js": "/LockAppJS/static/js/main.acf8f9fe.js",
+    "static/media/img1.avif": "/LockAppJS/static/media/img1.13b0f120911f91d80840.avif",
+    "static/media/img2.avif": "/LockAppJS/static/media/img2.34902b9ddeabd7ce1121.avif",
+    "static/media/img3.avif": "/LockAppJS/static/media/img3.0ec8bfbc7fef89d89b10.avif",
+    "index.html": "/LockAppJS/index.html",
+    "main.d1ed0332.css.map": "/LockAppJS/static/css/main.d1ed0332.css.map",
+    "main.acf8f9fe.js.map": "/LockAppJS/static/js/main.acf8f9fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ed0332.css",
+    "static/js/main.acf8f9fe.js"
+  ]
+}

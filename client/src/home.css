@@ -1,0 +1,49 @@
+#top{
+    margin-top: 100px;
+}
+
+#listItem{
+    margin-top: 5px;
+}
+
+#cardtop{
+    margin-top: 0px;
+    align-content: center;
+    color:#34568B;
+}
+#hp{
+    background-color: #34568B;
+}
+
+#cardsA{
+    text-align: left;
+    color:#34568B;
+    height: 100px;
+}
+#cardsB{
+    text-align: left;
+    color:#34568B;
+    height: 100px;
+}
+
+#cards {
+    margin-top: 300px;
+    display:flex ;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    };
+
+#buttons {
+            margin-left:auto;
+            display:flex !important; ;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+            width: 200px;
+            };
+
+            @media (min-width: 992px) {
+                #navbar-expand {
+                  display: flex !important;
+                }
+              }
+            
